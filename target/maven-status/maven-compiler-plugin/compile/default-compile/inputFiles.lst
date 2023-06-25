@@ -1,0 +1,8 @@
+/workspaces/test-spring-boot/src/main/java/com/javatechie/jpa/dto/OrderRequest.java
+/workspaces/test-spring-boot/src/main/java/com/javatechie/jpa/repository/CustomerRepository.java
+/workspaces/test-spring-boot/src/main/java/com/javatechie/jpa/entity/Product.java
+/workspaces/test-spring-boot/src/main/java/com/javatechie/jpa/controller/OrderController.java
+/workspaces/test-spring-boot/src/main/java/com/javatechie/jpa/repository/ProductRepository.java
+/workspaces/test-spring-boot/src/main/java/com/javatechie/jpa/dto/OrderResponse.java
+/workspaces/test-spring-boot/src/main/java/com/javatechie/jpa/SpringDataJpaMappingApplication.java
+/workspaces/test-spring-boot/src/main/java/com/javatechie/jpa/entity/Customer.java
